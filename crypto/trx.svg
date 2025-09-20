@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="43.833px" height="43.833px" viewBox="0 0 43.833 43.833" enable-background="new 0 0 43.833 43.833" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="21.917" cy="21.943" r="21.5"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#CC3228"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="-4.583" y="-4.557" clip-path="url(#SVGID_2_)" fill="#CC3228" width="53" height="53"/>
+	</g>
+</g>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="10.493,9.667 31.221,13.967 37.044,18.957 
+	21.88,37.408 "/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="10.773,9.926 23.671,20.48 31.287,14.395 
+	"/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="22.134,36.746 23.669,20.361 
+	36.758,19.112 "/>
+</svg>
